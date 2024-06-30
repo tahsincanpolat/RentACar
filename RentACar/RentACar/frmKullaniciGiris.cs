@@ -52,6 +52,9 @@ namespace RentACar
                 if(sifre == txt_sifre.Text)
                 {
                     MessageBox.Show("Hoşgeldiniz");
+                    frmYoneticiPanel yoneticiPanel = new frmYoneticiPanel();
+                    yoneticiPanel.Show();
+                    this.Hide();
                 }
                 else
                 {

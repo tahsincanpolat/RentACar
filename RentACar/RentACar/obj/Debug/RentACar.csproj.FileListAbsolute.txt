@@ -15,3 +15,5 @@ D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.pdb
 D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.Migrations.a.resources
 D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.frmKullaniciGiris.resources
 D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.frmKullaniciKayit.resources
+D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.frmYoneticiPanel.resources
+D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.frmAracEkle.resources

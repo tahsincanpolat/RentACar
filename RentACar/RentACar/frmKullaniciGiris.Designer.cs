@@ -74,7 +74,7 @@
             // 
             // btn_giris
             // 
-            this.btn_giris.BackColor = System.Drawing.Color.IndianRed;
+            this.btn_giris.BackColor = System.Drawing.Color.Brown;
             this.btn_giris.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btn_giris.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.btn_giris.Location = new System.Drawing.Point(46, 148);
@@ -100,7 +100,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(251, 254);
+            this.ClientSize = new System.Drawing.Size(243, 254);
             this.Controls.Add(this.lnklb_kayit);
             this.Controls.Add(this.btn_giris);
             this.Controls.Add(this.txt_sifre);
@@ -108,6 +108,7 @@
             this.Controls.Add(this.txt_TC);
             this.Controls.Add(this.label1);
             this.Name = "frmKullaniciGiris";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Kullanıcı Girişi";
             this.Load += new System.EventHandler(this.frmKullaniciGiris_Load);
             this.ResumeLayout(false);
