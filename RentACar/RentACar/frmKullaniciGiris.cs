@@ -53,6 +53,7 @@ namespace RentACar
                 {
                     MessageBox.Show("Hoşgeldiniz");
                     frmYoneticiPanel yoneticiPanel = new frmYoneticiPanel();
+                    yoneticiPanel.kid = id.ToString();
                     yoneticiPanel.Show();
                     this.Hide();
                 }

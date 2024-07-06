@@ -9,7 +9,6 @@ D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.csproj.Assembly
 D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.Properties.Resources.resources
 D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.csproj.GenerateResource.cache
 D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.csproj.CoreCompileInputs.cache
-D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.csproj.CopyComplete
 D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.exe
 D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.pdb
 D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.Migrations.a.resources
@@ -17,3 +16,6 @@ D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.frmKullaniciGir
 D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.frmKullaniciKayit.resources
 D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.frmYoneticiPanel.resources
 D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.frmAracEkle.resources
+D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.csproj.Up2Date
+D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.frmAracListesi.resources
+D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.frmAracDetayVeKirala.resources

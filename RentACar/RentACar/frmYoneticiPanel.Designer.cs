@@ -113,6 +113,7 @@
             this.ts_btn_araclistesi.Name = "ts_btn_araclistesi";
             this.ts_btn_araclistesi.Size = new System.Drawing.Size(23, 22);
             this.ts_btn_araclistesi.Text = "Araç Listesi";
+            this.ts_btn_araclistesi.Click += new System.EventHandler(this.ts_btn_araclistesi_Click);
             this.ts_btn_araclistesi.MouseLeave += new System.EventHandler(this.ts_btn_araclistesi_MouseLeave);
             this.ts_btn_araclistesi.MouseHover += new System.EventHandler(this.ts_btn_araclistesi_MouseHover);
             // 

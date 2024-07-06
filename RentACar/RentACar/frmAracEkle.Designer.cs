@@ -45,7 +45,7 @@
             this.cb_yakittipi = new System.Windows.Forms.ComboBox();
             this.bt_fileDialog = new System.Windows.Forms.Button();
             this.pb_aracResim = new System.Windows.Forms.PictureBox();
-            this.button2 = new System.Windows.Forms.Button();
+            this.btn_aracekle = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pb_aracResim)).BeginInit();
             this.SuspendLayout();
             // 
@@ -220,24 +220,25 @@
             this.pb_aracResim.TabIndex = 4;
             this.pb_aracResim.TabStop = false;
             // 
-            // button2
+            // btn_aracekle
             // 
-            this.button2.BackColor = System.Drawing.Color.Brown;
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.button2.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button2.Location = new System.Drawing.Point(25, 273);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(600, 78);
-            this.button2.TabIndex = 5;
-            this.button2.Text = "Araç Ekle";
-            this.button2.UseVisualStyleBackColor = false;
+            this.btn_aracekle.BackColor = System.Drawing.Color.Brown;
+            this.btn_aracekle.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btn_aracekle.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btn_aracekle.Location = new System.Drawing.Point(25, 273);
+            this.btn_aracekle.Name = "btn_aracekle";
+            this.btn_aracekle.Size = new System.Drawing.Size(600, 78);
+            this.btn_aracekle.TabIndex = 5;
+            this.btn_aracekle.Text = "Araç Ekle";
+            this.btn_aracekle.UseVisualStyleBackColor = false;
+            this.btn_aracekle.Click += new System.EventHandler(this.btn_aracekle_Click);
             // 
             // frmAracEkle
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(650, 363);
-            this.Controls.Add(this.button2);
+            this.Controls.Add(this.btn_aracekle);
             this.Controls.Add(this.pb_aracResim);
             this.Controls.Add(this.bt_fileDialog);
             this.Controls.Add(this.cb_yakittipi);
@@ -282,6 +283,6 @@
         private System.Windows.Forms.ComboBox cb_yakittipi;
         private System.Windows.Forms.Button bt_fileDialog;
         private System.Windows.Forms.PictureBox pb_aracResim;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btn_aracekle;
     }
 }

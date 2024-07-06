@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|d:\\tahsincanpolat\\c#2\\proje\\rentacar\\rentacar\\frmaracdetayvekirala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\frmaracdetayvekirala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|d:\\tahsincanpolat\\c#2\\proje\\rentacar\\rentacar\\frmaracdetayvekirala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\frmaracdetayvekirala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|d:\\tahsincanpolat\\c#2\\proje\\rentacar\\rentacar\\frmaraclistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\frmaraclistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\rentacar\\frmaraclistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\frmaraclistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|d:\\tahsincanpolat\\c#2\\proje\\rentacar\\rentacar\\frmkullanicigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\frmkullanicigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|d:\\tahsincanpolat\\c#2\\proje\\rentacar\\rentacar\\frmyoneticipanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\frmyoneticipanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\rentacar\\frmyoneticipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\frmyoneticipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|d:\\tahsincanpolat\\c#2\\proje\\rentacar\\rentacar\\frmkullanicigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\frmkullanicigiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\rentacar\\frmyoneticipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\frmyoneticipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|d:\\tahsincanpolat\\c#2\\proje\\rentacar\\rentacar\\frmaraclistesi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\frmaraclistesi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\rentacar\\frmaracekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\frmaracekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\rentacar\\frmaracekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\frmaracekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\rentacar\\orm\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\orm\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\rentacar\\orm\\entity\\arabalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\orm\\entity\\arabalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\rentacar\\frmaracekle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\frmaracekle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\rentacar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A7A53A-D92A-4271-B1C0-7635E5C72820}|RentACar\\RentACar.csproj|solutionrelative:rentacar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmYoneticiPanel.Designer.cs",
+              "DocumentMoniker": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmYoneticiPanel.Designer.cs",
+              "RelativeDocumentMoniker": "RentACar\\frmYoneticiPanel.Designer.cs",
+              "ToolTip": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmYoneticiPanel.Designer.cs",
+              "RelativeToolTip": "RentACar\\frmYoneticiPanel.Designer.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAywIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T08:00:14.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmKullaniciGiris.cs",
+              "DocumentMoniker": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmKullaniciGiris.cs",
+              "RelativeDocumentMoniker": "RentACar\\frmKullaniciGiris.cs",
+              "ToolTip": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmKullaniciGiris.cs",
+              "RelativeToolTip": "RentACar\\frmKullaniciGiris.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:59:23.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmKullaniciGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmKullaniciGiris.cs",
+              "RelativeDocumentMoniker": "RentACar\\frmKullaniciGiris.cs",
+              "ToolTip": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmKullaniciGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RentACar\\frmKullaniciGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:59:22.714Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAracDetayVeKirala.cs",
+              "DocumentMoniker": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmAracDetayVeKirala.cs",
+              "RelativeDocumentMoniker": "RentACar\\frmAracDetayVeKirala.cs",
+              "ToolTip": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmAracDetayVeKirala.cs",
+              "RelativeToolTip": "RentACar\\frmAracDetayVeKirala.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAkwDkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:58:05.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAracDetayVeKirala.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmAracDetayVeKirala.cs",
+              "RelativeDocumentMoniker": "RentACar\\frmAracDetayVeKirala.cs",
+              "ToolTip": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmAracDetayVeKirala.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RentACar\\frmAracDetayVeKirala.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:56:00.133Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmAracListesi.Designer.cs",
+              "DocumentMoniker": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmAracListesi.Designer.cs",
+              "RelativeDocumentMoniker": "RentACar\\frmAracListesi.Designer.cs",
+              "ToolTip": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmAracListesi.Designer.cs",
+              "RelativeToolTip": "RentACar\\frmAracListesi.Designer.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwD0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:46:36.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAracListesi.cs",
+              "DocumentMoniker": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmAracListesi.cs",
+              "RelativeDocumentMoniker": "RentACar\\frmAracListesi.cs",
+              "ToolTip": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmAracListesi.cs",
+              "RelativeToolTip": "RentACar\\frmAracListesi.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwCkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:39:29.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmYoneticiPanel.cs",
+              "DocumentMoniker": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmYoneticiPanel.cs",
+              "RelativeDocumentMoniker": "RentACar\\frmYoneticiPanel.cs",
+              "ToolTip": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmYoneticiPanel.cs",
+              "RelativeToolTip": "RentACar\\frmYoneticiPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:36:00.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAracListesi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmAracListesi.cs",
+              "RelativeDocumentMoniker": "RentACar\\frmAracListesi.cs",
+              "ToolTip": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmAracListesi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RentACar\\frmAracListesi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:35:52.714Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmYoneticiPanel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmYoneticiPanel.cs",
+              "RelativeDocumentMoniker": "RentACar\\frmYoneticiPanel.cs",
+              "ToolTip": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmYoneticiPanel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RentACar\\frmYoneticiPanel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:35:34.05Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\ORM\\Entity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "RentACar\\ORM\\Entity\\BaseEntity.cs",
+              "ToolTip": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\ORM\\Entity\\BaseEntity.cs",
+              "RelativeToolTip": "RentACar\\ORM\\Entity\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:22:57.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Arabalar.cs",
+              "DocumentMoniker": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\ORM\\Entity\\Arabalar.cs",
+              "RelativeDocumentMoniker": "RentACar\\ORM\\Entity\\Arabalar.cs",
+              "ToolTip": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\ORM\\Entity\\Arabalar.cs",
+              "RelativeToolTip": "RentACar\\ORM\\Entity\\Arabalar.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:22:52.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmAracEkle.Designer.cs",
+              "DocumentMoniker": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmAracEkle.Designer.cs",
+              "RelativeDocumentMoniker": "RentACar\\frmAracEkle.Designer.cs",
+              "ToolTip": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmAracEkle.Designer.cs",
+              "RelativeToolTip": "RentACar\\frmAracEkle.Designer.cs",
+              "ViewState": "AQIAANoAAAAAAAAAAAApwOoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:16:48.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmAracEkle.cs",
+              "DocumentMoniker": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmAracEkle.cs",
+              "RelativeDocumentMoniker": "RentACar\\frmAracEkle.cs",
+              "ToolTip": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmAracEkle.cs",
+              "RelativeToolTip": "RentACar\\frmAracEkle.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAApwD0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:16:42.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmAracEkle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmAracEkle.cs",
+              "RelativeDocumentMoniker": "RentACar\\frmAracEkle.cs",
+              "ToolTip": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\frmAracEkle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "RentACar\\frmAracEkle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:15:47.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\Program.cs",
+              "RelativeDocumentMoniker": "RentACar\\Program.cs",
+              "ToolTip": "D:\\TahsinCanpolat\\c#2\\Proje\\RentACar\\RentACar\\Program.cs",
+              "RelativeToolTip": "RentACar\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:53:21.763Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

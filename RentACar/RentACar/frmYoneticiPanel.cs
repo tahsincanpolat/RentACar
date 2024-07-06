@@ -12,6 +12,7 @@ namespace RentACar
 {
     public partial class frmYoneticiPanel : Form
     {
+        public string kid;
         public frmYoneticiPanel()
         {
             InitializeComponent();
@@ -52,5 +53,14 @@ namespace RentACar
             frmAracEkle aracEkle = new frmAracEkle();
             aracEkle.Show();
         }
+
+        private void ts_btn_araclistesi_Click(object sender, EventArgs e)
+        {
+            frmAracListesi aracListesi = new frmAracListesi();
+            aracListesi.kid = kid;
+            aracListesi.Show();
+        }
+
+        
     }
 }
