@@ -63,6 +63,7 @@
             this.pb_arabaResim.Location = new System.Drawing.Point(25, 44);
             this.pb_arabaResim.Name = "pb_arabaResim";
             this.pb_arabaResim.Size = new System.Drawing.Size(217, 141);
+            this.pb_arabaResim.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_arabaResim.TabIndex = 0;
             this.pb_arabaResim.TabStop = false;
             // 
@@ -356,6 +357,7 @@
             this.btn_kirala.TabIndex = 3;
             this.btn_kirala.Text = "Kirala";
             this.btn_kirala.UseVisualStyleBackColor = false;
+            this.btn_kirala.Click += new System.EventHandler(this.btn_kirala_Click);
             // 
             // btn_iptal
             // 
@@ -367,6 +369,7 @@
             this.btn_iptal.TabIndex = 3;
             this.btn_iptal.Text = "İptal";
             this.btn_iptal.UseVisualStyleBackColor = false;
+            this.btn_iptal.Click += new System.EventHandler(this.btn_iptal_Click);
             // 
             // frmAracDetayVeKirala
             // 

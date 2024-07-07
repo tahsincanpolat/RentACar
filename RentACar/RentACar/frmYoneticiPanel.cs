@@ -61,6 +61,10 @@ namespace RentACar
             aracListesi.Show();
         }
 
-        
+        private void ts_btn_kiralamalar_Click(object sender, EventArgs e)
+        {
+            frmKiralamalar frmKiralamalar = new frmKiralamalar();
+            frmKiralamalar.Show();
+        }
     }
 }

@@ -19,3 +19,8 @@ D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.frmAracEkle.res
 D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.csproj.Up2Date
 D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.frmAracListesi.resources
 D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.frmAracDetayVeKirala.resources
+D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.frmKiralamalar.resources
+D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\bin\Debug\RentACar.exe.manifest
+D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\bin\Debug\RentACar.application
+D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.exe.manifest
+D:\TahsinCanpolat\c#2\Proje\RentACar\RentACar\obj\Debug\RentACar.application

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="RentACar.exe" version="1.0.0.0" publicKeyToken="d3bfae4332c102bc" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="RentACar" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="RentACar.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Bildirim Seçenekleri
+          Windows Kullanıcı Hesabı Denetimi düzeyini değiştirmek istiyorsanız,
+           requestedExecutionLevel düğümünü aşağıdakilerden biriyle değiştirin.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Geriye dönük uyumluluk için Dosya ve Kayıt Defteri Sanallaştırması
+         kullanmak istiyorsanız, requestedExecutionLevel düğümünü silin.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.dll" size="4994080">
+      <assemblyIdentity name="EntityFramework" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ziVXinScF6VZgyNAAErBryvzWUt5eVrlP4yrCZmej/Y=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.SqlServer.dll" size="592416">
+      <assemblyIdentity name="EntityFramework.SqlServer" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>oNz5dcfjoUltjljMlyIQtM+RGT5HTSyGighpx2Q63lo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RentACar.exe" size="830400">
+      <assemblyIdentity name="RentACar" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>HRany1v8qiODeqve4G/FWD5QdK43pF73miS37e9uYsU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="RentACar.exe.config" size="1063">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>2yAh1rk68AV+qfC+WWH/2hxCxfQ/c4F+5uS6coMLyM0=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=202-HOCAPC\202-3" issuerKeyHash="9f687d145321d941c2bf6b796a5ffd18e5e06983" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>WSB/eTKMJlDQ+h7OcJj99JL78YTx0O7Zjae7DVzEqkY=</DigestValue></Reference></SignedInfo><SignatureValue>pI4l5gmBlDn8ywFmDf+ehz6mG4b4Ic/nKTbhmSSMz6h25+hBxwaCl0mWRQO79sb99K6AkJIQ4Qtj4pNjuHciwu6yLC5Lo2YLz9d0v7+sqxnmEETRb8qjxatqWoB9mv8tHVddctIw9xa5czDQcS2HAvdPHFvuEwbS63/CZVVuwsc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tXjg42ZnKuL19iLmKntWfbHX3AoQa0wrALXEZssA8xHA+ElvDRrVbjtddIJ4AeJwwBU4wyUzxkNJENkxxUQMPQQWaCVnEBZjVuj2k28xJACBUWNsHShuBkOfkCccdak3qsqXwDzSCvnRPHomKLpwYD7zQ60IB+qDX0KBgoU1ioE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="46aac45c0dbba78dd9eed0f184f1fb92f4fd9870ce1efad050268c32797f2059" Description="" Url=""><as:assemblyIdentity name="RentACar.exe" version="1.0.0.0" publicKeyToken="d3bfae4332c102bc" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=202-HOCAPC\202-3</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>We8z5A0lIXbSRLfogp+WyBvj9kOHHjD8VswWWQzTUJk=</DigestValue></Reference></SignedInfo><SignatureValue>YSApaZWWZ1/1ZeNk5yl2Lakqu0FQceTL8ge/ODF85DDrk09wMwl6ZH8Yy5dzLP6XuK5LDkKL75Pm1FrcP7oc4GDCvO5s1LGVGGqtOm+lKvhuPggyS6JUd64PkhmGNPRv0UI0mY7caejH4xy4W3k/7WshcSCMuig1uxqB8GflXgY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tXjg42ZnKuL19iLmKntWfbHX3AoQa0wrALXEZssA8xHA+ElvDRrVbjtddIJ4AeJwwBU4wyUzxkNJENkxxUQMPQQWaCVnEBZjVuj2k28xJACBUWNsHShuBkOfkCccdak3qsqXwDzSCvnRPHomKLpwYD7zQ60IB+qDX0KBgoU1ioE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQPZsDarfFxZpDW/PgDVGZnTANBgkqhkiG9w0BAQsFADArMSkwJwYDVQQDHiAAMgAwADIALQBIAE8AQwBBAFAAQwBcADIAMAAyAC0AMzAeFw0yNDA3MDcwNzQxMDRaFw0yNTA3MDcxMzQxMDRaMCsxKTAnBgNVBAMeIAAyADAAMgAtAEgATwBDAEEAUABDAFwAMgAwADIALQAzMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC1eODjZmcq4vX2IuYqe1Z9sdfcChBrTCsAtcRmywDzEcD4SW8NGtVuO110gngB4nDAFTjDJTPGQ0kQ2THFRAw9BBZoJWcQFmNW6PaTbzEkAIFRY2wdKG4GQ5+QJxx1qTeqypfAPNIK+dE8eiYounBgPvNDrQgH6oNfQoGChTWKgQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAHMaZljPHaF9oVBZ3EelA32POwaQLQbbKnjbt4fS8qDd74Ct1p0R8hWlkq/oja41wxesWEDCW52LkxZU266bBIClQ1UmtB+vHWZYd8usXNfU2haOMPS+OtduYVl1SjJE99a3JM+y28V3etOqb1E0BWRuRto2hd51qHqQCXcdfU+h</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

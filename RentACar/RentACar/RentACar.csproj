@@ -15,6 +15,22 @@
     <Deterministic>true</Deterministic>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\1\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -34,6 +50,18 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>8174FE786BD03816B34C79DC32EB90AA2A0A5CF3</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>RentACar_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
@@ -74,6 +102,12 @@
     <Compile Include="frmAracListesi.Designer.cs">
       <DependentUpon>frmAracListesi.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmKiralamalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKiralamalar.Designer.cs">
+      <DependentUpon>frmKiralamalar.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmKullaniciGiris.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -109,6 +143,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>RentACarDataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Include="RentACarDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RentACarDataSet1.xsd</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="frmAracDetayVeKirala.resx">
       <DependentUpon>frmAracDetayVeKirala.cs</DependentUpon>
     </EmbeddedResource>
@@ -117,6 +156,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmAracListesi.resx">
       <DependentUpon>frmAracListesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKiralamalar.resx">
+      <DependentUpon>frmKiralamalar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmKullaniciGiris.resx">
       <DependentUpon>frmKullaniciGiris.cs</DependentUpon>
@@ -160,11 +202,34 @@
     <None Include="RentACarDataSet.xss">
       <DependentUpon>RentACarDataSet.xsd</DependentUpon>
     </None>
+    <None Include="RentACarDataSet1.xsc">
+      <DependentUpon>RentACarDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="RentACarDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>RentACarDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="RentACarDataSet1.xss">
+      <DependentUpon>RentACarDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="RentACar_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 ve x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 </ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

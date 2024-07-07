@@ -76,6 +76,7 @@
             this.ts_btn_kiralamalar.Name = "ts_btn_kiralamalar";
             this.ts_btn_kiralamalar.Size = new System.Drawing.Size(23, 22);
             this.ts_btn_kiralamalar.Text = "Kiralama Listesi";
+            this.ts_btn_kiralamalar.Click += new System.EventHandler(this.ts_btn_kiralamalar_Click);
             this.ts_btn_kiralamalar.MouseLeave += new System.EventHandler(this.ts_btn_kiralamalar_MouseLeave);
             this.ts_btn_kiralamalar.MouseHover += new System.EventHandler(this.ts_btn_kiralamalar_MouseHover);
             // 
